@@ -1,0 +1,73 @@
+{ "frames": [
+   {
+    "filename": "spritesheet (run) 0.png",
+    "frame": { "x": 0, "y": 0, "w": 182, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 182, "h": 199 },
+    "sourceSize": { "w": 182, "h": 199 },
+    "duration": 100
+   },
+   {
+    "filename": "spritesheet (run) 1.png",
+    "frame": { "x": 182, "y": 0, "w": 182, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 182, "h": 199 },
+    "sourceSize": { "w": 182, "h": 199 },
+    "duration": 100
+   },
+   {
+    "filename": "spritesheet (run) 2.png",
+    "frame": { "x": 364, "y": 0, "w": 182, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 182, "h": 199 },
+    "sourceSize": { "w": 182, "h": 199 },
+    "duration": 100
+   },
+   {
+    "filename": "spritesheet (run) 3.png",
+    "frame": { "x": 546, "y": 0, "w": 182, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 182, "h": 199 },
+    "sourceSize": { "w": 182, "h": 199 },
+    "duration": 100
+   },
+   {
+    "filename": "spritesheet (run) 4.png",
+    "frame": { "x": 728, "y": 0, "w": 182, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 182, "h": 199 },
+    "sourceSize": { "w": 182, "h": 199 },
+    "duration": 100
+   },
+   {
+    "filename": "spritesheet (run) 5.png",
+    "frame": { "x": 910, "y": 0, "w": 182, "h": 199 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 182, "h": 199 },
+    "sourceSize": { "w": 182, "h": 199 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.39-trial",
+  "image": "spritesheet-sheet.png",
+  "format": "RGBA8888",
+  "size": { "w": 1092, "h": 199 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "running", "from": 0, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "run", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

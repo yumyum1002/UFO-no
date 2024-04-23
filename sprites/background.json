@@ -1,0 +1,55 @@
+{ "frames": [
+   {
+    "filename": "vector-retro-futuristic-background-pixel-art-background-8-bit-retro-game-design-interface-pixel-art-400-235860500 0.jpg",
+    "frame": { "x": 0, "y": 0, "w": 400, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 400, "h": 300 },
+    "sourceSize": { "w": 400, "h": 300 },
+    "duration": 100
+   },
+   {
+    "filename": "vector-retro-futuristic-background-pixel-art-background-8-bit-retro-game-design-interface-pixel-art-400-235860500 1.jpg",
+    "frame": { "x": 400, "y": 0, "w": 400, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 400, "h": 300 },
+    "sourceSize": { "w": 400, "h": 300 },
+    "duration": 100
+   },
+   {
+    "filename": "vector-retro-futuristic-background-pixel-art-background-8-bit-retro-game-design-interface-pixel-art-400-235860500 2.jpg",
+    "frame": { "x": 800, "y": 0, "w": 400, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 400, "h": 300 },
+    "sourceSize": { "w": 400, "h": 300 },
+    "duration": 100
+   },
+   {
+    "filename": "vector-retro-futuristic-background-pixel-art-background-8-bit-retro-game-design-interface-pixel-art-400-235860500 3.jpg",
+    "frame": { "x": 1200, "y": 0, "w": 400, "h": 300 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 400, "h": 300 },
+    "sourceSize": { "w": 400, "h": 300 },
+    "duration": 100
+   }
+ ],
+ "meta": {
+  "app": "https://www.aseprite.org/",
+  "version": "1.2.40-x64",
+  "format": "RGBA8888",
+  "size": { "w": 1866, "h": 300 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "move", "from": 0, "to": 3, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Background Copy", "opacity": 255, "blendMode": "normal" },
+   { "name": "Background Copy Copy", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

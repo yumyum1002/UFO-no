@@ -1,0 +1,1 @@
+esbuild main.js --bundle > build.js
