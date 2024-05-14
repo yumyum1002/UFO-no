@@ -3,7 +3,7 @@ import "kaboom/global";
 
 const gameInitializer = {
   initializeKaboom: function() {
-    kaboom({ background: [0, 0, 0]});
+    kaboom({ background: [0, 0.1, 0]});
   },
   initializeGravity: function(gravity) {
     setGravity(gravity);
